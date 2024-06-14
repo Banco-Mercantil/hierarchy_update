@@ -1,5 +1,7 @@
 # hierarchy_update
 
+agente >> gerente de conta >> gerente de agencia >> regional >> sup
+
 A gestão de visualização e acesso das regionais é determinado por um conjunto de verificações. 
 
 Para que o colaborador consiga visualizar informações de desempenho de outros pontos de atendimento além do próprio, é necessário cumprir com certas exigências de centro de custo, cargo. 
